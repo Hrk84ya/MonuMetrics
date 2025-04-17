@@ -147,8 +147,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions or suggestions, please contact:
-- Project Maintainer: [Harsh KUmar](mailto:hrk84ya@gmail.com)
-- GitHub Issues: [Create an issue](https://github.com/Hrk84ya/heritage-degradation-dashboard/issues)
+- Project Maintainer: [Harsh Kumar](mailto:hrk84ya@gmail.com)
+- GitHub Issues: [Create an issue](https://github.com/Hrk84ya/MonuMetrics/issues)
 
 ---
 
